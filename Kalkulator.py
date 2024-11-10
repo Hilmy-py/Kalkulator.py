@@ -2,7 +2,7 @@ import tkinter
 from tkinter import *
 
 root=Tk()
-root.title("Subhan Calculator")
+root.title("Hilmy Calculator")
 root.geometry("570x600+100+200")
 root.configure(bg="#17161b")
 
